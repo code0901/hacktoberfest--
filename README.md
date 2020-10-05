@@ -15,8 +15,6 @@ It's very easy. Don't need to be an expert in coding. Follow the below steps you
 ***
 ```
 
-***
-```
 4. Now Commit your changes by pressing the green Commit new file button.
 5. Create a new pull request from your forked repository (Button located at the top of your repo)
 8. Star this repository!
